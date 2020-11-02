@@ -1,2 +1,1 @@
-- [Preview](https://lena-25.github.io/)
-- [PullRequest](https://github.com/Lena-25/ideal-memory/pull/1/files)
+
